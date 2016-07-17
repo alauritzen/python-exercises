@@ -9,4 +9,5 @@ weight = raw_input("How much do you weigh? ")
 # print "How much do you weigh?",
 # weight = raw_input()
 
-print "So you're %s years old, %s tall, and %s heavy." % (age, height, weight)
+print "So you're %s years old, %s tall, and %s heavy." % (
+    age, height, weight)
